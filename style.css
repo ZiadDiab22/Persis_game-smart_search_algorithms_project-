@@ -1,0 +1,23 @@
+table {
+  width: 99%;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+  font-size: x-large;
+  background-color: #AC7685;
+  width: 50px;
+  height: 30px;
+}
+
+p {
+  text-align: center;
+  font-size: 60px;
+}
+
+body {
+  background-color: #8381c2
+}
